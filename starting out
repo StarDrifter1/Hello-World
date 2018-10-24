@@ -1,0 +1,11 @@
+#simple print greetings, commented out of code.
+
+print("hello, StarDrifter1!")
+
+
+
+#more sophisticated version:
+#name = raw_input ("What is your name?")
+#Print("Hello, future bioinformatician" + name + "!")
+
+
